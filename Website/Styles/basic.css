@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+   font-family: 'Titillium Web', 'Arial', sans-serif; 
+}
+
+.MaxW{
+    max-width: 1920px;
+    margin: auto;
+    background-image: url("../Media/CoffeBG.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-position: center;
+}
