@@ -6,25 +6,12 @@
 }
 
 body{
-<<<<<<< HEAD
    font-family: 'Titillium Web', 'Arial', sans-serif; 
-}
-
-.MaxW{
-    max-width: 1920px;
-    margin: auto;
-    background-image: url("../Media/CoffeBG.jpg");
-	background-repeat: no-repeat;
-	background-size: 100% 100%;
-	background-position: center;
-=======
-   font-family: 'Titillium Web', 'Arial', sans-serif;
     background-image: url("../Media/CoffeBG.jpg");
 	background-repeat: no-repeat;
     background-size: cover;
 }
 
 .MaxW{
-   
->>>>>>> Edits
+    
 }
