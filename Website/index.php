@@ -1,20 +1,5 @@
-<!DOCTYPE html>
-<html lang="es">
-    <head>
-        <meta charset="utf-8"/>
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta name="description" content="Control web para cafetera.">
-  		<meta name="author" content="Jonathan Aldana">
-		<title>Smart Coffee Web</title>
-		<link rel="shortcut icon" type="image/x-icon" href="./Media/Favicon.ico"/>
-		<link rel="stylesheet" type="text/css" href="./Styles/fontello.css">
-        <link rel="stylesheet" type="text/css" href="./Styles/basic.css">
-    </head>
-    <body>
-        <div class="MaxW">
-            <div class="container">
-                
-            </div>
-        </div>
-    </body>
-</html>
+<?php
+
+require_once('views/layouts/head.php');
+require_once('views/layouts/body.php');
+require_once('views/layouts/footer.php');
